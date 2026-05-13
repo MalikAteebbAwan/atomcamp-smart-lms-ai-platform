@@ -60,3 +60,8 @@ This project demonstrates how Generative AI can be used to build intelligent, pe
 git clone https://github.com/your-username/atomcamp-smart-lms.git
 cd atomcamp-smart-lms
 
+atomcamp-smart-lms/
+│
+├── HP.py                # Main Streamlit app
+├── requirements.txt     # Dependencies
+├── README.md            # Documentation
