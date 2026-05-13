@@ -55,7 +55,7 @@ This project demonstrates how Generative AI can be used to build intelligent, pe
 
 ## 📦 Installation & How to Run
 
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/atomcamp-smart-lms.git
 cd atomcamp-smart-lms
@@ -66,7 +66,7 @@ python -m venv venv
 3️⃣ Activate Virtual Environment
 venv\Scripts\activate
 
-### 4️⃣ Install Dependencies
+4️⃣ Install Dependencies
 pip install -r requirements.txt
 
 5️⃣ Set Up API Key
